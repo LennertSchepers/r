@@ -1,5 +1,9 @@
 # Specifying an R environment with a runtime.txt file
 
+
+
+## Note: `sf` doesn't get installed, use https://github.com/LennertSchepers/minimal_R_spatial instead.
+
 Jupyter+R: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/LennertSchepers/r/master?filepath=index.ipynb)
 
 RStudio: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/LennertSchepers/r/master?urlpath=rstudio)
